@@ -1,6 +1,8 @@
-CNCToolDQN implementation and TH score estimation
+CNCToolDQN implementation and TH score estimation (First uploaded in April/12/2023)
 
-Example
+Data sample will be uploaded soon.
+
+How to run:
 
 python main.py --dir='C:/' --dir_savefigure= 'C:/'  --gpu='0' --maxlen=300 --L= 1 --alpha=0.005 --tau=1
 
