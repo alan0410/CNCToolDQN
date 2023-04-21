@@ -3,7 +3,7 @@
 CNCToolDQN implementation and TH score estimation (First uploaded in April/12/2023)
 
 
- ## CNCToolDQN Architecture
+ ## CNCToolDQN architecture
 ![architecture](https://user-images.githubusercontent.com/60909846/233515204-a70301ed-4c4b-436f-bdc0-cb8c8386e538.png)
 
 CNCToolDQN is a Deep Q-learning based framework for tool monitoring, in which the agent is trained by exploring the representation space of multivariate time-series data (state) of tool loads (i.e., Spindle loads, and Servo loads) and tool age, and gets rewards when it correctly prdicts anomalies (action).  
