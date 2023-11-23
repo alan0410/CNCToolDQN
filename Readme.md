@@ -1,6 +1,6 @@
 # CNCToolDQN
 
-CNCToolDQN implementation and TH score estimation (First uploaded in April/12/2023)
+CNCToolDQN implementation and TH score estimation
 
 
  ## CNCToolDQN architecture
